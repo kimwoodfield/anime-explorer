@@ -1,2 +1,2 @@
-# anime-explorer
-👾 An online search to view info on anime you are interested in
+# anime-explorer 👾
+Built in vanilla JavaScript while leveraging the KitsuAnime API to draw relevant data
