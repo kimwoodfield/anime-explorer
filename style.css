@@ -13,6 +13,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: sans-serif;
+    padding-bottom: 2.5rem;
 }
 
 
@@ -93,7 +94,7 @@ header {
 /* Card Area */
 #cardList {
     width: 22rem;
-    height: 1000px;
+    height: auto;
     /* border: 1px dashed salmon; */
 }
 
